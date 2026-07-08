@@ -1,0 +1,2 @@
+//@version=6
+indicator("Predator AI Pro", overlay=true)
